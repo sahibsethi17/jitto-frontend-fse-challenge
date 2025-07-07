@@ -105,4 +105,5 @@ Make sure to include the `index.html` in the public folder and set up correct ba
 
 This project was created for the M251 Full Stack Engineering Challenge.
 
-Contact: [your email or GitHub profile]
+Contact: sahib1701@gmail.com
+
